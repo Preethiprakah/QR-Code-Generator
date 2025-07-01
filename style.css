@@ -54,7 +54,7 @@ body::after {
     radial-gradient(circle at 80% 70%, rgba(255,255,255,0.10) 0 120px, transparent 300px),
     radial-gradient(circle at 60% 20%, rgba(255,255,255,0.08) 0 60px, transparent 180px),
     radial-gradient(circle at 40% 80%, rgba(255,255,255,0.09) 0 100px, transparent 250px);
-  animation: bg-move 20s linear infinite alternate; /* Slightly adjusted duration for these elements */
+  animation: bg-move 8s linear infinite alternate; /* Slightly adjusted duration for these elements */
 }
 
 /* Keyframes for ::after background position movement */
