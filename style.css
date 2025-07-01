@@ -18,7 +18,7 @@ body {
   /* This gradient will shift through these colors as it moves */
   background: linear-gradient(120deg, #FF6F61 0%, #6B5B95 25%, #4facfe 50%, #1abc9c 75%, #F08A5D 100%);
   background-size: 400% 400%; /* Increased size for more dramatic movement and mixing */
-  animation: gradient-move 15s ease-in-out infinite alternate; /* Slower animation for smooth blending */
+  animation: gradient-move 8s ease-in-out infinite alternate; /* Slower animation for smooth blending */
 
   display: flex;
   justify-content: center;
